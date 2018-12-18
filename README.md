@@ -4,16 +4,24 @@ Dataset used: Recipes of cakes and pastries dataset for classification of a new 
 
 Using the training dataset(Recipes.csv) containing various features like Refined Flour, Powdered Sugar, Egg etc. as inputs and Type as the class, to predict new recipe to be a cake/pastry.
 
+
 Algorithm used: Support Vector Machines
+
 This is a classification algorithm. Support Vector Machines are large margin machine learning algorithm. SVMs are binary classifiers, two classes are distinguished. They can be extended to classify more than two classes. In the binary case, samples belonging to one of the two classes are separated by a hyperplane.
+
 
 Libraries:
 Scikit learn for using the Support Vector Machines algorithm 
+
 pandas for reading the data file to analyse the dataset
+
 numpy used for computing purposes
+
 matplotlib, seaborn for plotting and displays
 
+
 Tools: Built using Jupiter Notebook which helps to define code as well as mention comments in the file itself.
+
 
 Implementation: Step-by-step explained below
 1.	Imported libraries to be used for coding, visuals and analysing the data
